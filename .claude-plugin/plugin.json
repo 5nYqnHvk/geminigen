@@ -1,0 +1,8 @@
+{
+  "name": "geminigen",
+  "description": "Generate images and videos via snapgen.ai API (Gemini, Grok, Veo, Sora, Seedance, Kling).",
+  "author": {
+    "name": "5nYqnHvk"
+  },
+  "version": "1.0.0"
+}

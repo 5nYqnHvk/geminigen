@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "geminigen",
+  "description": "Generate images and videos via snapgen.ai API (Gemini, Grok, Veo, Sora, Seedance, Kling).",
+  "owner": {
+    "name": "5nYqnHvk"
+  },
+  "plugins": [
+    {
+      "name": "geminigen",
+      "description": "Generate images and videos using snapgen.ai API. Supports nano-banana/Grok/Meta AI/GPT Image for images and Veo/Sora/Grok/Seedance/Kling for videos.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
