@@ -6,8 +6,16 @@ Supports **Gemini, Grok, Meta AI, GPT Image, Veo, Sora, Seedance, Kling** — al
 
 ## Installation
 
+**Step 1** — Add this repo as a marketplace source:
+
 ```bash
-/plugin install https://github.com/5nYqnHvk/geminigen
+claude plugin marketplace add https://github.com/5nYqnHvk/geminigen
+```
+
+**Step 2** — Install the plugin inside Claude Code:
+
+```
+/plugin install geminigen
 ```
 
 Then set your API key (get one at [snapgen.ai](https://snapgen.ai)):
